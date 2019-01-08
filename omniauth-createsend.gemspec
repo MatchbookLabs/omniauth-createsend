@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.licenses      = ["MIT"]
 
-  s.add_runtime_dependency "omniauth-oauth2", "~> 1.1"
+  s.add_runtime_dependency "omniauth-oauth2", "~> 1.6.0"
   s.add_development_dependency "rspec", "~> 3.0"
   s.add_development_dependency "rack-test", "~> 0.6"
   s.add_development_dependency "webmock", "~> 1.0"
